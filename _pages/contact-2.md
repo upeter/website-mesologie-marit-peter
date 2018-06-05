@@ -5,7 +5,7 @@ author: mesoloog
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.mesoloog-utrecht.nl/contact-2/
+  https://www.mesoloog-utrecht.nl/contact-2/
 published: true
 post_date: 2014-02-13 11:38:14
 ---
@@ -36,5 +36,7 @@ Er is gratis parkeergelegenheid voor deur, een parkeerplek kun je bij Marit zelf
 Het gebouw bevindt zich tegenover het station Utrecht Vaartsche Rijn.
 
 &nbsp;
+
+Privacy statement:<a href="https://www.mesoloog-utrecht.nl/wp-content/uploads/2018/06/Privacy-statement-Praktijk-voor-Mesologie-Marit-Peter.pdf">Privacy statement Praktijk voor Mesologie Marit Peter</a>
 
 &nbsp;
