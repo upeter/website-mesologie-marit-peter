@@ -5,13 +5,13 @@ author: mesoloog
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.mesoloog-utrecht.nl/vergoeding/
+  https://www.mesoloog-utrecht.nl/vergoeding/
 published: true
 post_date: 2014-02-13 11:59:33
 ---
 Vergoedingen door uw zorgverzekeraar kunt u vinden met de volgende link:
 
-<a href="http://www.mesologie.nl/syndeo_data/media/artikelen/mesologie_vergoedingenlijst_2017_7-12-2016.pdf">http://www.mesologie.nl/syndeo_data/media/artikelen/mesologie_vergoedingenlijst_2017_7-12-2016.pdf</a>
+https://www.mesologie.nl/syndeo_data/media/artikelen/Vergoedingen_Mesologie_2019_def.pdf
 
 &nbsp;
 
