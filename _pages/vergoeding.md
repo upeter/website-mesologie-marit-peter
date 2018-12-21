@@ -11,7 +11,7 @@ post_date: 2014-02-13 11:59:33
 ---
 Vergoedingen door uw zorgverzekeraar kunt u vinden met de volgende link:
 
-https://www.mesologie.nl/syndeo_data/media/artikelen/Vergoedingen_Mesologie_2019_def.pdf
+<a href="https://www.mesologie.nl/syndeo_data/media/artikelen/Vergoedingen_Mesologie_2019_def.pdf">https://www.mesologie.nl/syndeo_data/media/artikelen/Vergoedingen_Mesologie_2019_def.pdf</a>
 
 &nbsp;
 
