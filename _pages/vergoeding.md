@@ -23,6 +23,8 @@ NVVM: Nederlandse Vereniging voor Mesologie
 
 RBCZ: Register Beroepsbeoefenaren Complementaire Zorg, licentienummer: 406019R
 
+VBAG: Vereniging ter Bevordering voor Alternatieve Geneeswijze, lidnummer: 21901011
+
 &nbsp;
 
 Kamer van Koophandel: 52524418
