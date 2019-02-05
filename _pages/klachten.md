@@ -53,6 +53,7 @@ Voor de volgende klachten kunt u een mesoloog consulteren:
  	<li>Astmatische klachten, hoesten;</li>
  	<li>Pijn of stijfheid in de gewrichten en/of spieren;</li>
  	<li>Slaapproblemen;</li>
+ 	<li>Hypoglycemie, bloedsuikerschommelingen;</li>
  	<li>Overige klachten.</li>
 </ul>
 &nbsp;
