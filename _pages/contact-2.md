@@ -17,7 +17,7 @@ of via de mail: <a href="mailto:maritpeter.mesologie@gmail.com">marit_peter@meso
 
 &nbsp;
 
-Een consult Mesologie voor volwassenen en kinderen vanaf 12 jaar kost € 98,- en duurt 75 minuten.
+Een consult voor volwassenen en kinderen vanaf 12 jaar kost € 98,- en duurt 75 minuten.
 
 Een consult voor een kind tussen de 0 en 12 jaar kost € 75,- en duurt ongeveer 60 minuten.
 
