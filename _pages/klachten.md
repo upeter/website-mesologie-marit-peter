@@ -4,7 +4,8 @@ post_title: Klachten
 author: mesoloog
 post_excerpt: ""
 layout: page
-permalink: http://www.mesoloog-utrecht.nl/klachten/
+permalink: >
+  https://www.mesoloog-utrecht.nl/klachten/
 published: true
 post_date: 2014-02-13 11:25:47
 ---
@@ -35,7 +36,7 @@ Voor de volgende klachten kunt u een mesoloog consulteren:
 </ul>
 </li>
  	<li>Vermoeidheidsklachten;</li>
- 	<li>Chronisch verkouden, terugkerende keelpijn, chronische oorontsteking, verlaagde weerstand;</li>
+ 	<li>Chronisch verkouden, terugkerende keelpijn, chronische oorontsteking, verlaagde weerstand, ziekte van Lyme;</li>
  	<li>Terugkerende urineweginfecties, incontinentie;</li>
  	<li>Astmatische klachten, hoesten;</li>
  	<li>Pijn of stijfheid in de gewrichten en/of spieren;</li>
