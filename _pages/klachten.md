@@ -35,9 +35,21 @@ Voor de volgende klachten kunt u een mesoloog consulteren:
  	<li>Jeuk.</li>
 </ul>
 </li>
+ 	<li>Afweerklachten zoals:
+<ul>
+ 	<li>Chronisch verkouden;</li>
+ 	<li>Terugkerende keelpijn;</li>
+ 	<li>Chronische oorontsteking;</li>
+ 	<li>Verlaagde weerstand algemeen;</li>
+ 	<li>Ziekte van Lyme;</li>
+ 	<li>Herpesinfecties;</li>
+ 	<li>Ziekte van Pfeiffer;</li>
+ 	<li>Terugkerende urineweginfecties.</li>
+</ul>
+</li>
+</ul>
+<ul>
  	<li>Vermoeidheidsklachten;</li>
- 	<li>Chronisch verkouden, terugkerende keelpijn, chronische oorontsteking, verlaagde weerstand, ziekte van Lyme;</li>
- 	<li>Terugkerende urineweginfecties, incontinentie;</li>
  	<li>Astmatische klachten, hoesten;</li>
  	<li>Pijn of stijfheid in de gewrichten en/of spieren;</li>
  	<li>Slaapproblemen;</li>
