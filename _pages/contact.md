@@ -39,7 +39,7 @@ Het gebouw bevindt zich tegenover het station Utrecht Vaartsche Rijn.
 [wpgmza id="1"]
 <div>
 
-
+<br/>
 <strong>Privacy statement</strong>
 
 <span style="color: #4a9dd4;"><a style="color: #4a9dd4;" href="https://www.mesoloog-utrecht.nl/wp-content/uploads/2018/06/Privacy-statement-Praktijk-voor-Mesologie-Marit-Peter.pdf">Privacy statement Praktijk voor Mesologie Marit Peter</a></span>
