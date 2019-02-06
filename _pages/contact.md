@@ -4,8 +4,7 @@ post_title: Contact
 author: mesoloog
 post_excerpt: ""
 layout: page
-permalink: >
-  https://www.mesoloog-utrecht.nl/contact-2/
+permalink: https://www.mesoloog-utrecht.nl/contact/
 published: true
 post_date: 2014-02-13 11:38:14
 ---
