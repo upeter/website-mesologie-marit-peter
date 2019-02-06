@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2014-02-13 10:44:41
 ---
-Mesologie is een complementaire geneeswijze voor onderzoek en behandeling van chronische lichamelijk en psychische klachten. De reguliere medische kennis wordt gecombineerd met de kennis uit verschillende natuurgeneeskundige geneeswijzen zoals Ayurveda, Orthomoleculaire Geneeskunde, Homeopathie, Traditionele Chinese Geneeskunde en Fytotherapie. Tevens is deze geneeswijze gericht op de individuele benadering van de patiënt en op de zelfgenezende kracht van het organisme<b>.</b>
+Mesologie is een complementaire geneeswijze voor onderzoek en behandeling van chronische lichamelijk en psychische klachten. De reguliere medische kennis wordt gecombineerd met de kennis uit verschillende natuurgeneeskundige geneeswijzen zoals Ayurveda, Orthomoleculaire Geneeskunde, Homeopathie, Traditionele Chinese Geneeskunde (electroacupunctuur)  en Fytotherapie. Tevens is deze geneeswijze gericht op de individuele benadering van de patiënt en op de zelfgenezende kracht van het organisme<b>.</b>
 
 Ieder mens is uniek en heeft een unieke wisselwerking met zijn omgeving. Iedereen reageert anders op invloeden, zoals voeding, het weer, sociale omstandigheden. Ieder mens streeft naar zijn optimale evenwicht hierin. Zolang we gezond zijn bevinden we ons binnen het eigen evenwicht. Alle reacties die we dagelijks hebben zijn dan een normale aanpassing binnen dit evenwicht. Door sommige situaties, gebeurtenissen, voeding kunnen we uit evenwicht raken. Zo kunnen er disfuncties ontstaan.
 
