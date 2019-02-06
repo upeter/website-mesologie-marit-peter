@@ -35,8 +35,9 @@ Er is gratis parkeergelegenheid voor deur, een parkeerplek kun je bij Marit zelf
 
 Het gebouw bevindt zich tegenover het station Utrecht Vaartsche Rijn.
 
+</div>
 [wpgmza id="1"]
-<code></code>
+<div>
 
 <hr />
 
