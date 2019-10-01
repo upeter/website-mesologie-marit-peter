@@ -21,6 +21,7 @@ of via de mail: <a href="mailto:maritpeter.mesologie@gmail.com">marit_peter@meso
 <strong>Kosten</strong>
 
 Een consult voor volwassenen en kinderen vanaf 12 jaar kost € 98,- en duurt 75 minuten.
+Per 1 januari 2020 kost een consult € 99,-
 
 Een consult voor een kind tussen de 0 en 12 jaar kost € 75,- en duurt ongeveer 60 minuten.
 
