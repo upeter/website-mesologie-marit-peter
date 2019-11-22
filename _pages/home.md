@@ -1,6 +1,6 @@
 ---
 ID: 296
-post_title: Welkom
+post_title: ""
 author: mesoloog
 post_excerpt: ""
 layout: page
