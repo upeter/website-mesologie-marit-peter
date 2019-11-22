@@ -8,8 +8,8 @@ permalink: https://www.mesoloog-utrecht.nl/
 published: true
 post_date: 2019-11-22 16:02:57
 ---
-<!-- wp:heading {"align":"center","level":1,"textColor":"vivid-cyan-blue"} -->
-<h1 class="has-vivid-cyan-blue-color has-text-color has-text-align-center"><strong>Mesologie is een geneeswijze voor lichamelijk chronische klachten</strong></h1>
+<!-- wp:heading {"align":"center","level":1,"customTextColor":"#3c8ebe"} -->
+<h1 class="has-text-color has-text-align-center" style="color:#3c8ebe"><strong>Mesologie is een geneeswijze voor lichamelijk chronische klachten</strong></h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
