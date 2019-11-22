@@ -10,6 +10,6 @@ permalink: https://www.mesoloog-utrecht.nl/
 published: true
 post_date: 2019-11-22 16:02:57
 ---
-<!-- wp:paragraph -->
-<p>De praktijk voor Mesologie is gevestigd in het bedrijfverzamelgebouw Rudolf Magnus</p>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">De praktijk voor Mesologie is gevestigd in het bedrijfsverzamelgebouw Rudolf Magnus</p>
 <!-- /wp:paragraph -->
