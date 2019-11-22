@@ -12,10 +12,10 @@ post_date: 2019-11-22 16:02:57
 <h1 class="has-text-color has-text-align-center" style="color:#3c8ebe"><strong>Mesologie is een geneeswijze voor lichamelijk chronische klachten</strong></h1>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size"><strong>De praktijk voor Mesologie is gevestigd in het bedrijfsverzamelgebouw Rudolf Magnus</strong></p>
-<!-- /wp:paragraph -->
-
 <!-- wp:image {"align":"center","id":285,"sizeSlug":"large"} -->
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://www.mesoloog-utrecht.nl/wp-content/uploads/2019/11/Logo-NVVM.jpg" alt="" class="wp-image-285"/></figure></div>
 <!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size"><strong>De praktijk voor Mesologie is gevestigd in het bedrijfsverzamelgebouw Rudolf Magnus</strong></p>
+<!-- /wp:paragraph -->
