@@ -15,3 +15,7 @@ post_date: 2019-11-22 16:02:57
 <!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size"><strong>De praktijk voor Mesologie is gevestigd in het bedrijfsverzamelgebouw Rudolf Magnus</strong></p>
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":285,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://www.mesoloog-utrecht.nl/wp-content/uploads/2019/11/Logo-NVVM.jpg" alt="" class="wp-image-285"/></figure>
+<!-- /wp:image -->
