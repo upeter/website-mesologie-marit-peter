@@ -22,6 +22,8 @@ Een consult voor volwassenen en kinderen vanaf 12 jaar kost € 99,- en duurt 75
 
 Een consult voor een kind tussen de 0 en 12 jaar kost € 75,- en duurt ongeveer 60 minuten.
 
+Mocht u een consult willen verzetten of afzeggen dan graag 24 uur van tevoren. Zo niet, dan kan ik 50 euro in rekening brengen.
+
 <strong>Locatie</strong>
 
 De consulten vinden plaats in het bedrijvencomplex Rudolf Magnus op de:
