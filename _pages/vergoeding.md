@@ -13,8 +13,6 @@ Vergoedingen door uw zorgverzekeraar kunt u vinden met de volgende link:
 
 <a href="https://www.mesologie.nl/syndeo_data/media/artikelen/Vergoedingen_Mesologie_2019_def.pdf">https://www.mesologie.nl/syndeo_data/media/artikelen/Vergoedingen_Mesologie_2019_def.pdf</a>
 
-&nbsp;
-
 Marit Peter is aangesloten bij de volgende beroepsverenigingen:
 
 NRM: Nederlands Register Mesologie, lidnummer: M 114
@@ -25,12 +23,4 @@ RBCZ: Register Beroepsbeoefenaren Complementaire Zorg, licentienummer: 406019R
 
 VBAG: Vereniging ter Bevordering voor Alternatieve Geneeswijze, lidnummer: 21901011
 
-&nbsp;
-
 Kamer van Koophandel: 52524418
-
-&nbsp;
-
-Mocht u een consult willen verzetten of afzeggen dan graag 24 uur van tevoren.
-
-Zo niet, dan kan ik 50 euro in rekening brengen.
