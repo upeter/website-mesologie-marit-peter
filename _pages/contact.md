@@ -8,6 +8,8 @@ permalink: https://www.mesoloog-utrecht.nl/contact/
 published: true
 post_date: 2014-02-13 11:38:14
 ---
+<em><strong>In verband met de corona maatregelen van de overheid is de praktijk in ieder geval tot en met 6 april 2020 gesloten. U kunt wel contact opnemen.</strong></em>
+
 <strong>Afspraak</strong>
 
 Voor vragen en het maken van afspraken kunt u Marit Peter bereiken op:
