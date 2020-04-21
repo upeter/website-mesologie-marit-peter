@@ -8,7 +8,7 @@ permalink: https://www.mesoloog-utrecht.nl/contact/
 published: true
 post_date: 2014-02-13 11:38:14
 ---
-<em><strong>In verband met de corona maatregelen van de overheid is de praktijk in ieder geval tot 28 april 2020 gesloten. U kunt wel contact opnemen.</strong></em>
+<em><strong>In verband met de corona maatregelen van de overheid is de praktijk in ieder geval tot 20 mei 2020 gesloten. U kunt wel contact opnemen.</strong></em>
 
 <strong>Afspraak</strong>
 
