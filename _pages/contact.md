@@ -8,7 +8,7 @@ permalink: https://www.mesoloog-utrecht.nl/contact/
 published: true
 post_date: 2014-02-13 11:38:14
 ---
-<em><strong>De praktijk is tot 24 mei 2020 gesloten. Als u een afspraak had die is afgezegd of heeft aangegeven er een te willen maken, dan neem ik in de week van 18 mei contact op voor het maken van een nieuwe afspraak. </strong></em>
+<em><strong>De praktijk is tot 1 juni 2020 gesloten. Als u een afspraak had die is afgezegd of heeft aangegeven er een te willen maken, dan neem ik in de week van 25 mei contact op voor het maken van een nieuwe afspraak. </strong></em>
 
 <strong>Afspraak</strong>
 
