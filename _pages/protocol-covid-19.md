@@ -10,12 +10,8 @@ published: true
 post_date: 2020-06-19 09:01:36
 ---
 <!-- wp:paragraph -->
-<p>Leest u alstublieft voor u naar de afspraak komt het procol covid-19 door:<a href="file:///Users/marit/Downloads/MES-005-COVID-protocol-P1.pdf">file:///Users/marit/Downloads/MES-005-COVID-protocol-P1.pdf</a></p>
+<p>Leest u alstublieft voor u naar de afspraak komt het procol covid-19 door: <a href="file:///Users/marit/Downloads/MES-005-COVID-protocol-P1.pdf" target="_blank" rel="noreferrer noopener" aria-label=" (opent in een nieuwe tab)">file:///Users/marit/Downloads/MES-005-COVID-protocol-P1.pdf</a></p>
 <!-- /wp:paragraph -->
-
-<!-- wp:file {"id":364,"href":"https://www.mesoloog-utrecht.nl/wp-content/uploads/2020/06/MES-005-COVID-protocol-P1.pdf"} -->
-<div class="wp-block-file"><a href="https://www.mesoloog-utrecht.nl/wp-content/uploads/2020/06/MES-005-COVID-protocol-P1.pdf">Protocol Covid-19</a><a href="https://www.mesoloog-utrecht.nl/wp-content/uploads/2020/06/MES-005-COVID-protocol-P1.pdf" class="wp-block-file__button" download>Download</a></div>
-<!-- /wp:file -->
 
 <!-- wp:paragraph -->
 <p></p>
