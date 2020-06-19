@@ -5,7 +5,7 @@ author: mesoloog
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.mesoloog-utrecht.nl/protocol-covid-19/
+  https://www.mesoloog-utrecht.nl/contact/protocol-covid-19/
 published: true
 post_date: 2020-06-19 09:01:36
 ---
