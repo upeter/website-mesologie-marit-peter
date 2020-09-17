@@ -8,7 +8,7 @@ permalink: https://www.mesoloog-utrecht.nl/contact/
 published: true
 post_date: 2014-02-13 11:38:14
 ---
-<em><strong> Als u heeft aangegeven dat u een afspraak wilt maken en ik heb u op de lijst gezet, dan neem ik vanzelf contact op om het consult in te plannen. Nieuwe cliënten kunnen in oktober aanstaande weer een afspraak maken.</strong></em>
+<em><strong> Als u heeft aangegeven dat u een afspraak wilt maken en ik heb u op de lijst gezet, dan neem ik vanzelf contact op om het consult in te plannen. Nieuwe cliënten kunnen in november aanstaande weer een afspraak maken.</strong></em>
 
 <strong>Afspraak</strong>
 
