@@ -22,6 +22,8 @@ post_date: 2014-02-13 11:59:33
 <p><strong>Privacy statement</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p><a href="https://www.mesoloog-utrecht.nl/wp-content/uploads/2018/06/Privacy-statement-Praktijk-voor-Mesologie-Marit-Peter.pdf">Privacy statement Praktijk voor Mesologie Marit Peter</a></p>
-<!-- /wp:paragraph -->
+<!-- wp:file {"id":380,"href":"https://www.mesoloog-utrecht.nl/wp-content/uploads/2020/11/Privacy-statement-Praktijk-voor-Mesologie-Marit-Peter-.pdf"} -->
+<div class="wp-block-file"><a href="https://www.mesoloog-utrecht.nl/wp-content/uploads/2020/11/Privacy-statement-Praktijk-voor-Mesologie-Marit-Peter-.pdf">Privacy-statement-Praktijk-voor-Mesologie-Marit-Peter-</a><a href="https://www.mesoloog-utrecht.nl/wp-content/uploads/2020/11/Privacy-statement-Praktijk-voor-Mesologie-Marit-Peter-.pdf" class="wp-block-file__button" download>Download</a></div>
+<!-- /wp:file -->
+
+<!-- wp:file /-->
