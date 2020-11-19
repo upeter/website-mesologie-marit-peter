@@ -26,11 +26,9 @@ post_date: 2014-02-13 11:38:14
 <div><strong>Klacht</strong></div>
 <div> </div>
 <div>Als u een klacht heeft over de behandeling, dan hoor ik graag van u. Dan</div>
-<div> </div>
 <div>proberen we dit eerst samen op te lossen.</div>
 <div> </div>
 <div>Mocht dit niet lukken, dan kunt u zich wenden tot de geschillencommissie</div>
-<div> </div>
 <div>van Quasir: bemiddeling@quasir.nl of telefonisch: 06 4844 5538. </div>
 <div> </div>
 <div>Meer informatie kunt u in deze folder vinden:</div>
