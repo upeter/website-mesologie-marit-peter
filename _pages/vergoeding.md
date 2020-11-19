@@ -10,7 +10,7 @@ published: true
 post_date: 2014-02-13 11:59:33
 ---
 <p>Vergoedingen door uw zorgverzekeraar kunt u vinden met de volgende link:</p>
-<p><a href="https://www.mesologie.nl/syndeo_data/media/artikelen/Vergoedingen_Mesologie_2019_def.pdf">https://www.mesologie.nl/syndeo_data/media/artikelen/Vergoedingen_Mesologie_2019_def.pdf</a></p>
+<p><a href="https://www.mesologie.nl/syndeo_data/media/artikelen/Vergoedingen_zorgverzekering_2020_-1.pdf">https://www.mesologie.nl/syndeo_data/media/artikelen/Vergoedingen_zorgverzekering_2020_-1.pdf</a></p>
 <p>Marit Peter is aangesloten bij de volgende beroepsverenigingen:</p>
 <p>NRM: Nederlands Register Mesologie</p>
 <p>NVVM: Nederlandse Vereniging voor Mesologie</p>
