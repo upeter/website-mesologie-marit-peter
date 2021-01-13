@@ -8,7 +8,7 @@ permalink: https://www.mesoloog-utrecht.nl/contact/
 published: true
 post_date: 2014-02-13 11:38:14
 ---
-<p><em><strong>Tot en met 19 januari 2021 is de praktijk gesloten i.v.m. de nieuwe lockdown. Als u een afspraak heeft staan voor die tijd zal ik die afzeggen en  na 12 januari neem ik contact op voor het maken van een nieuwe afspraak. </strong></em></p>
+<p><em><strong>Tot en met 9 februari 2021 is de praktijk gesloten i.v.m. de nieuwe lockdown. Als u een afspraak heeft staan voor die tijd zal ik die afzeggen en  na 2 februari neem ik contact op voor het maken van een nieuwe afspraak. </strong></em></p>
 <p><strong>Afspraak</strong></p>
 <p>Voor vragen en het maken van afspraken kunt u Marit Peter bereiken op:</p>
 <p>het telefoonnummer: 06-8129 5432</p>
